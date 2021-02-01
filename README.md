@@ -15,7 +15,6 @@ Y recordar contruir el build:
 
 ```
 ### URL
-
 ```
 https://ariproyect.github.io/webpack-starter/
 
